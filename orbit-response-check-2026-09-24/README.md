@@ -10,6 +10,6 @@ states averaged (tolerance 1e-8), all connected graphs with N=6 (112) and N=7 (8
 - `edrn_orbit_paper_claims.py`: recomputes every figure in the reply from the result files and from
   the v12/v16 files in the paper's repository.
 - `*.result.json`: the outputs these runs produced.
-- `seal-4e85d5f8ec30.svg`: the seal on the reply. Transparency log entry 2, root
-  5e2ddfbb455fcf76e0e40f9f051931f8c9fca8e8d4407b76352c4e85d5f8ec30,
-  proof https://dancenitra.github.io/inspeximus-log/entries/2.proof.json
+- `seal-d3dce0861bf2.svg`: the seal on the reply. Transparency log entry 3, root
+  551c5ce7c82f7afc55dcb95f522631b3c9388dcc8877daadf044d3dce0861bf2,
+  proof https://dancenitra.github.io/inspeximus-log/entries/3.proof.json
